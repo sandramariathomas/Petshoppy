@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">189730531239-rr6ksq8e6q72b8smjd5891orfse55oh0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">189730531239</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKCMzQdhrL8JWbgPURmHxxPRTSEg7-zzM</string>
+    <string name="google_app_id" translatable="false">1:189730531239:android:4685f7adeafebf9e2f7882</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKCMzQdhrL8JWbgPURmHxxPRTSEg7-zzM</string>
+    <string name="google_storage_bucket" translatable="false">petshopee-22253.appspot.com</string>
+    <string name="project_id" translatable="false">petshopee-22253</string>
+</resources>
